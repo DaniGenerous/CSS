@@ -12,7 +12,7 @@ body { background-color: #9EEFE4;
 		font-size: 60px;
 	  text-decoration: overline;
   text-decoration-color: skyblue;
-padding-bottom: 50px}
+padding-bottom: 55px}
 
 
 li{list-style-image: url('bulletbutterfly.png');
@@ -31,7 +31,7 @@ margin:0;
 	width: 600px;
 		margin: 0 auto;
 		text-align: center;
-		padding-top: 10px}
+		padding-top: 25px}
 
 
 p:first-line{color:darkslateblue;}
@@ -39,11 +39,11 @@ p:first-line{color:darkslateblue;}
 	font-family: 'Quicksand', sans-serif;
 
 		text-transform: capitalize;
-		font-size:20px;
+		font-size:22px;
 	    background-color: palevioletred;
-	    opacity: 0.9;
+	    opacity: 0.83;
     border: 50px;
-    padding: 50px;
+    padding: 55px;
     margin: 20px;
 }
 
@@ -59,7 +59,7 @@ p:first-line{color:darkslateblue;}
 #certifications {font-family: 'Alegreya Sans', sans-serif;
 	font-style:italic;}
 
-#education {padding-top:250px}
+#education {padding-top:180px}
 h1, h2, h3 {font-family: 'Quicksand', sans-serif;
 color: rgb(235, 65, 192);
 font-size: 23px;
