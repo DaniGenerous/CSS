@@ -1,0 +1,92 @@
+body { background-color: #9EEFE4; 
+		background-image: url("triangles.jpeg"); 
+		background-repeat:repeat-x;
+		background-size:100%;}
+
+	#Title {text-align:center;
+		font-style: italic;
+		letter-spacing: 8px;
+		color: darkslateblue;
+		font-weight: bold;
+		 text-shadow: .2em .2em .2em silver;
+		font-size: 60px;
+	  text-decoration: overline;
+  text-decoration-color: skyblue;
+padding-bottom: 50px}
+
+
+li{list-style-image: url('bulletbutterfly.png');
+list-style-position:inside;}
+
+  h1 {text-align: center;
+	font-size:30px;
+		}
+h2 {text-align: center;
+	font-size: 20px}
+
+
+#selfie {
+display:block;
+margin:0;
+	width: 600px;
+		margin: 0 auto;
+		text-align: center;
+		padding-top: 10px}
+
+
+p:first-line{color:darkslateblue;}
+#Summary {
+	font-family: 'Quicksand', sans-serif;
+
+		text-transform: capitalize;
+		font-size:20px;
+	    background-color: palevioletred;
+	    opacity: 0.9;
+    border: 50px;
+    padding: 30px;
+    margin: 20px;
+}
+
+#hdr {line-height:3px;
+	font-style:italic;}
+
+.body{font-family: 'Alegreya Sans', sans-serif;
+	font-size:18px;
+	padding-left: 40px;
+	line-height:32px;
+}
+
+#certifications {font-family: 'Alegreya Sans', sans-serif;
+	font-style:italic;}
+
+#education {padding-top:150px}
+h1, h2, h3 {font-family: 'Quicksand', sans-serif;
+color: rgb(235, 65, 192);
+font-size: 23px;
+padding-left: 30px;
+padding-right: 20px}
+
+#contacttitle {
+	font-weight:bolder;
+	padding-top: 80px;
+	font-size:30px;
+	text-decoration:underline;
+	text-transform: uppercase;
+	letter-spacing:6px;
+text-align: center}
+
+#please {text-align: center;
+font-style:italic;}
+
+#contact
+{ ;
+	font-size:22px;
+	text-align: center;
+	border: 20px;
+    padding: 30px;
+    margin: 20px;  
+    border-style: solid;
+  border-color: darkslateblue;
+background-color:palevioletred;}
+
+
